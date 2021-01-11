@@ -4,4 +4,4 @@
 
 
 
-The copyright of this public data and code is belong to xing yang (email:harryyangx@gmail.com), you need to contact us before you use it.
+The copyright of this public data and code belongs to xing yang (email:harryyangx@gmail.com), please contact us before you use it.
