@@ -1,5 +1,5 @@
 # High-Voltage-Discharge-Interference-Experiments
-
+Due to the change of domain name, the video may be revised as: http://nljrc.njau.edu.cn/index.php/insecticidal-performance-simulate. Before the change, you can click this link:  http://nljrc.pk.njau.edu.cn/index.php/insecticidal-performance-simulate
 
 
 
